@@ -1,4 +1,8 @@
 To undrestand the project please first read "about" section.
+special features are developed for every user type of role, admin is able to see users list and authorize them, users are not able to have any activity until they are authorized by admin.
+dmin also is able to see list of projects and proposals, and also able to add and remove catagories.
+employer is able to add new projets and accept the proposals suggested by the freelancers.
+freelancers are able to suggest proposals for the projects they want, proposals must contain a price and a duration that they can make the project done.
 to run the project first download the backend file and frontebd file then run "npm i" and "npm run dev" in the backend file terminal after that run "npm i" and 
 "npm run dev" in frontend file terminal.
 # React + Vite
